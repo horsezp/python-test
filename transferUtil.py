@@ -5,13 +5,15 @@ import httplib
 import md5
 import urllib
 import random
+import json
+import time
 
 def transfer(word):
     appid = '20151113000005349'
     secretKey = 'osubCEzlGjzvw8qdQc41'
     httpClient = None
     myurl = '/api/trans/vip/translate'
-    q = word
+    q = word.encode("utf-8")
     fromLang = 'zh'
     toLang = 'en'
     salt = random.randint(32768, 65536)
@@ -20,15 +22,18 @@ def transfer(word):
     m1 = md5.new()
     m1.update(sign)
     sign = m1.hexdigest()
-    myurl = myurl+'?appid='+appid+'&q='+urllib.quote(q)+'&from='+fromLang+'&to='+toLang+'&salt='+str(salt)+'&sign='+sign
 
     try:
+        myurl = myurl + '?appid=' + appid + '&q=' + urllib.quote(q) + '&from=' + fromLang + '&to=' + toLang + '&salt=' + str(salt) + '&sign=' + sign
         httpClient = httplib.HTTPConnection('api.fanyi.baidu.com')
         httpClient.request('GET', myurl)
 
         #response是HTTPResponse对象
         response = httpClient.getresponse()
-        value = response.read()
+        jsonData = json.loads(response.read())
+        time.sleep(1)
+        sub= jsonData['trans_result']
+        value =  sub[0]['dst']
         return value
     except Exception, e:
         print e
@@ -36,6 +41,3 @@ def transfer(word):
     finally:
         if httpClient:
             httpClient.close()
-
-v=transfer('系统')
-print v
