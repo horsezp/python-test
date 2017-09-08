@@ -1,0 +1,11 @@
+update SYS_MENU_ITEM set is_del='Y' where menu_id in (106,69,201);
+
+delete from sys_templete_table;
+
+delete  from sys_workflow_log;
+
+delete from sys_excelimp_log;
+
+delete  from SYS_MB_LOG;
+
+delete  from SYS_WORKFLOW_LOG_HISTORY;
