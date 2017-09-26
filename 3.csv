@@ -1,0 +1,1691 @@
+18位,18Bit,18bit,X
+745,745 Interest,int745,X
+745项下,745 Interest,int745,X
+790,790 Interest,int790,X
+790项下,790 Interest,int790,X
+Free,free,X,
+INTERNET,Internet,inn,X
+Recommendation,recmm,X,
+SWIFT,Swift,swift,X
+X轴,COLX,COLX,X
+Y轴,COLY,COLY,X
+osf,Outstanding File,osf,X
+一,One,one,X
+一年,OneYear,oy,X
+一户多贷,One To Many,onemny,X
+一本通,YI BEN TONG,YBT,X
+一级,First Level,fstlv,X
+一般,normal,nrl,X
+一逾两呆,Bad Loan Source,bls,X
+三季度,ThreeQuarter,thrqtr,X
+三年,Three Years,thryr,X
+三月,Three Month,thrmon,X
+三级,Third Level,thdlv,X
+三贷,Gry,GRY,X
+上,Last,lst,X
+上一,Last,lst,X
+上上层,Upper,upper,X
+上会,Meeting,metg,X
+上传,Upload,upld,X
+上层,Superstratum,supstr,X
+上市,Come Into Market,cmitmrkt,X
+上年末,Last Year,lst_year,X
+上报,Report,rprt,X
+上期,LastTerm,lst_term,X
+上次,Last Time,lst_time,X
+上班,On Duty,ondty,X
+上级,Superior,sprr,X
+上级行之上级行,Top Bank,top_bnk,X
+上缴,handin,hi,X
+上限,Upper Limit,uprlmt,X
+下,Next,next,X
+下传,Download,dld,X
+下次,Next Time,nxttm,X
+下浮,fall,fall,X
+下班,Off Duty,ofdty,X
+下载,Download,dwld,X
+下迁,Fall,fall,X
+下限,Lower Limit,lwrlmt,X
+不,Non,non,X
+不利,Disadvantage,disadg,X
+不合格,Disqualification,dqlf,X
+不安全,Unsafe,unsafe,X
+不良,Problem Loans,pbmln,X
+与,With,with,X
+专业,Professional,prof,X
+专家,Expert,expert,X
+专管,Special Management,splecmag,X
+专职,Full Time,fultm,X
+专项,Special Item,specitm,X
+世界500强,World500,world500,X
+业务,Business,bsn,X
+东,East,east,X
+严重,Serious,serious,X
+个人,Individual,idv,X
+个别,Individual,idvd,X
+个数,Number,nbr,X
+中,Middle,mdl,X
+中专,Technical Secondary School,techscdscl,X
+中介,Agency,agc,X
+中值,MiddleValue,mdlvl,X
+中央,Central,cent,X
+中小企业,SME,SME,X
+中心,center,cent,X
+中文,Chinese,cn,X
+中级,Intermediate,intmdt,X
+中行,Bank Of China,boc,X
+中银,boc,boc,X
+中银统,Bocstatistc,bocstat,X
+中间,Middle,mdl,X
+中间业务,Internal Bussiness Services,ibs,X
+中间价,Middle Rate,mrate,X
+临时,Temp,tmp,X
+临界,Critical,crit,X
+为他人,For Others,oths,X
+主,Main,main,X
+主任,Director,dirt,X
+主办,Charge,chrg,X
+主动,Auto,auto,X
+主导,Main,main,X
+主控方,Master,master,X
+主文件,Main File,mfile,X
+主档,Main File,mfile,X
+主次,Primary and Secondary,prim_sec,X
+主管,Charge,chrg,X
+主营,Main,main,X
+主要,Main,main,X
+主观,Subjective,subj,X
+主键,Key,key,X
+乘,Multiply,multiply,X
+乘方,Power,power,X
+九,Nine,nine,X
+买卖,Buy,buy,X
+争取,Try,try,X
+争议,dispute,dspt,X
+事,Event,event,X
+事业,cause,cs,X
+事件,Event,event,X
+事务所,Office,office,X
+事宜,Matters,mats,X
+事实,Fact,fact,X
+事项,Item,item,X
+二级,Second Level,scdlv,X
+亏损,Loss,los,X
+五级,Level 5,lvl5,X
+交叉,Cross,cross,X
+交换,Commutative,cmt,X
+交易,Tracsaction,txn,X
+交通,Traffic,trff,X
+交通工具,Vehicle,vehl,X
+产品,Product,pd,X
+产权,Property Right,ptyrt,X
+产生,Create,crt,X
+人,Er,er,X
+人口,Population,PPN,X
+人员,Personel,psnl,X
+人均,Per Person,perper,X
+人工,manmade,md,X
+人数,Person Number,prsnmbr,X
+人数比,membersDiv,memDiv,X
+人民币,Rmb,rmb,X
+人民银行,People Bank Of China,PBC,X
+人行,People Bank Of China,PBC,X
+从业,Working,work,X
+他行,Other Bank,oth_bnk,X
+付息,Pay Interest,payint,X
+付息日,Interest Date,intdt,X
+付款,Pay,pay,X
+付费,pay,pay,X
+代,Agent,agnt,X
+代付,Paying,paying,X
+代办,Agent,agnt,X
+代理,Agent,agent,X
+代理键,Surrogate Key,sur_key,X
+代码,Code,code,X
+代表,Representation,rprs,X
+令牌,Token Ring,tkrg,X
+以上,Upper,upper,X
+以下,Down,down,X
+以前,Before,bf,X
+仪表盘,Dashboard,dashbd,X
+价值,Worth,wth,X
+价格,Price,prc,X
+任务,task,tsk,X
+任职,Employee,emp,X
+份额,Share,share,X
+企业,Enterprise,entp,X
+优先,Priority,prrt,X
+优惠,Preferential,prefert,X
+优质,High Quality,hiqly,X
+会,Meeting,metg,X
+会计,Fiscal,fsc,X
+会计师,Accountant,acct,X
+会议,Meeting,metg,X
+传真,Fax,fax,X
+传票,Subpena,sbpn,X
+估价,Appraise Value,apval,X
+估价人,Appraise Value By,apvalby,X
+估值,Assessment,ass,X
+位数,Digit,dgt,X
+位置,Position,pstn,X
+低,Low,low,X
+住址,Dwelling Place,dwe,X
+住宅,Dwelling Place,dwe,X
+住房,Housing,hsg,X
+余额,Balance,bal,X
+作业,Job,job,X
+佣金,Commision,comisn,X
+使用,Use,use,X
+使用权,Right Of Use,rghuse,X
+例外,exception,exc,X
+依存,Dependence,dependen,X
+依据,Basis,basis,X
+保兑,Exchang,exg,X
+保函,Letter Of Guarantee,guarantee,X
+保存,Save,save,X
+保理,Factoring,factoring,X
+保留,Reserve,resrv,X
+保留位,Reserved,rsvd,X
+保管,Keeping,kpg,X
+保证,Guarantee,grt,X
+保证人,Guarantor,grtr,X
+保证金,Deposit,dep,X
+保险,Insurance,ins,X
+保险单,Insurance Certificate,insctf,X
+保险费,Insurance Fee,insf,X
+保障,guarantee,grnt,X
+信号,Signal,sigl,X
+信息,Information,inf,X
+信用,Credit,cr,X
+信用卡,Credit Card,crcrd,X
+信用证,Letter Of Credit,LC,X
+信贷,Loan,loan,X
+信贷员,Credit Man,cman,X
+修改,Modified,mod,X
+修正,Revise,revs,X
+倍数,timenumber,tmnbr,X
+借据,Due Bill,dbl,X
+借方,Debit,db,X
+借款,Loan,loan,X
+借款人,Borrower,brw,X
+借记卡,Debit Card,dcrd,X
+债券,Bond,bnd,X
+债务,Debt,db,X
+债务人,Debtor,dbr,X
+债权,Creditor's rights,crtor_rt,X
+债权人,Debtee,dbe,X
+值,Value,val,X
+假日,Holiday,hol,X
+停产,Stop Production,stop_pd,X
+停止,Stop,stp,X
+偷漏税,Tax evasion,tax_evasion,X
+偿还,Pay,pay,X
+储种,Saving Type,savtyp,X
+催收,Dun,dun,X
+允许,Allow,alow,X
+充足,Adequacy,adq,X
+免,Free,,
+免税,Exemption,exmpt,X
+兑,Exchange,exg,X
+兑付,Cash,cash,X
+兑换,Exchange,exg,X
+入,Into,into,X
+入库,Into Storage,istrg,X
+全,All,all,X
+全国,Nation,nation,X
+全称,Full Name,fulnm,X
+公共,Public,pblc,X
+公司,Corporation,corp,X
+公式,Expressions,exps,X
+公益金,Public welfare fund,public_welfare_fund,X
+公积金,Accumulation Fund,acmfnd,X
+公证,Notarization,ntz,X
+共同,Co,co,X
+共有,Mutual,mutual,X
+共管,Condominium,cond,X
+关户,Close,close,X
+关注,Attention,atte,X
+关系,Relationship,rln,X
+关联,Related,rel,X
+关键字,keyword,kw,X
+关闭,Close,close,X
+其他,Other,other,X
+其它,Other,othr,X
+具体,Specific,spec,X
+具有,Have,h,X
+兼营,Compatible,cmptbl,X
+兼选,MultiSelect,mltslct,X
+内,Inner,inn,X
+内容,Content,cntnt,X
+内部,Inner,inr,X
+内部考核,Ipms,IPMS,X
+再,Re,re,X
+冗余,repeat,rpt,X
+冲正,Correction,cor,X
+冲账,Striked Balance,strkbal,X
+冲销,Strike A Balance,strkbal,X
+决策,Decision,decs,X
+决算价,Settlement Rate,stmrate,X
+决议,Resolution,resol,X
+冻结,Freeze,frz,X
+净,Net,net,X
+净值,Net Value,nval,X
+净利润,Retained Profit,rtnpft,X
+净资产,Net Assets,ntast,X
+净额,Net Amount,net_amt,X
+准入,Access,access,X
+准备,Ready,rd,X
+准备金,Reserve,resv,X
+准时,On Time,ontm,X
+准贷记卡,Debit Credit Card,dcrcrd,X
+减,Decrease,dec,X
+减值,Devalue,deval,X
+减少,Decrease,dec,X
+减点,Devalue,deval,X
+凭证,Warrant,wrt,X
+出具,Open,open,X
+出口商,Exporter,expter,X
+出库,Off Storage,ostrg,X
+出现,Appearance,appr,X
+出生,Birth,birth,X
+出生日期,Birthday,brth,X
+出票人,Drawer,drawer,X
+出纳,Cash Payment,cashpmt,X
+出让,Remise,rems,X
+出账,Charge Off,chgof,X
+出资,Financing,fncing,X
+函,Letter,ltr,X
+分值,Value,val,X
+分录,Category,cgy,X
+分成,Profit Sharing,pft_share,X
+分户账,Ledger,ldg,X
+分摊,Apportion,appor,X
+分机,Extention,ext,X
+分析,Analysis,anls,X
+分析员,Analyst,anlst,X
+分派,Assigned,assg,X
+分润,profit,prft,X
+分类,Class,clss,X
+分行,Branch Bank,bbnk,X
+分配,Distribute,dstb,X
+分项,Subentry,sentr,X
+划付,Pay,pay,X
+划付书,Pay Letter,pltr,X
+划拨,Transfer,tfr,X
+划拨书,Transfer Letter,tfrlt,X
+列,Column,clmn,X
+列表,List,lst,X
+创建,Create,crt,X
+初分,Initial,ini,X
+初始化,Initial,init,X
+初级,Primary,prm,X
+删除,Delete,del,X
+判定,Determine,detrmin,X
+判断,Judge,jdg,X
+利息,Interest,int,X
+利润,Profit,pft,X
+利润率,Profit Margin,pftmgn,X
+利率,Interest Rate,intrate,X
+到位,reach,rch,X
+到期,At Term,atm,X
+到期日,Maturity,mat,X
+到期账龄,Expire Date,exdt,X
+前,Bf,bf,X
+前后,Before And Behind,bfbh,X
+前缀,Prefix,pre,X
+剔除,remove,rmv,X
+剥离,Peel Off,off,X
+剩余,Remain,remain,X
+办公,Office,office,X
+办妥,Done,done,X
+功能,Function,function,X
+加,Add,add,X
+加工,Process,proc,X
+加强,Intensify,intnsf,X
+加急,Urgent,urg,X
+加权,Weight,wght,X
+动产,Chattel,chtl,X
+动户,Transaction,trans,X
+动户文件,Changed File,cfile,X
+包,package,pkg,X
+化解,defuse,dfs,X
+北,North,north,X
+匹配,Match,match,X
+区域,Area,area,X
+区间,Period,prid,X
+医疗,medical,mdcl,X
+十,Ten,ten,X
+十三级,Level13,lvl13,X
+十二,Twelve,twlv,X
+协定,Negotiation,ng,X
+协议,Agreement,agrm,X
+单位,Unit,unit,X
+单户,Single Door,sdr,X
+单据,Bill,bill,X
+单笔,Single Stroke,sstrk,X
+卖出价,Selling_Rate,selling_rate,X
+南,South,south,X
+占比,Percentage,pct,X
+占用,Take,tak,X
+占领,Occupancy,ocupy,X
+卡,Card,crd,X
+卡片,Card,card,X
+印刷,Print,print,X
+印章,Seal,seal,X
+即期,Sight,sight,X
+历史,History,hist,X
+压减,Press,ps,X
+压缩,Compress,cmpr,X
+原,Former,frmr,X
+原因,Reason,rsn,X
+原始,Origin,orig,X
+原币,Original Currency,origccy,X
+去年,lastYear,lstYr,X
+参与,Join,join,X
+参加,Join,join,X
+参数,Parameter,para,X
+参照,Reference,refr,X
+参考,Reference,ref,X
+及,And,and,X
+及时,In Time,in_time,X
+及格,Pass,pass,X
+反,Inverse,inver,X
+反洗钱,AML,AML,X
+反馈,Feedback,fdbak,X
+反馈意见,Feedback,fdbak,X
+发出,Issued,Issued,X
+发动机,Engine,eng,X
+发卡,Issue,isu,X
+发展,Development,dvlp,X
+发展商,Developer,dvpr,X
+发放,Provide,prvd,X
+发现,Find,find,X
+发生,Happened,hpnd,X
+发票,Invoice,invc,X
+发薪,Pay,pay,X
+发行,Publish,publ,X
+发起,Start,start,X
+发送,send,snd,X
+取消,Cancel,cancel,X
+取现,Draw Money,draw_money,X
+取舍进位,Round,rnd,X
+受保物,Insurant Material,insmtr,X
+受理,Admissible,amis,X
+受益人,Beneficiary,bnfy,X
+变动,Change,chng,X
+变化,Change,chng,X
+变更,Change,chng,X
+变现,Liquidation,liqdt,X
+叙做,Dealing,dlg,X
+口径,Caliber,clbr,X
+另行,Next time,nxttm,X
+可信度,Reliability,reliab,X
+可支配,Governable,gvnbl,X
+可用,Available,avl,X
+可疑,Shadiness,shad,X
+号,Identifier,id,X
+号码,Number,no,X
+合作,Cooperate,cprt,X
+合作方,Copartner,cpn,X
+合同,Contract,ctr,X
+合并,Merge,merge,X
+合格证,Certificate Of Conformity,cctf,X
+合约,Agreement,agrm,X
+合计,Summation,sum,X
+同业,Same Trade,smtrd,X
+同城,Same City,smct,X
+同意,Agree,agr,X
+同期,same term,st,X
+名义,Nominal,nmnl,X
+名单,List,lst,X
+名称,Name,nm,X
+后,Af,af,X
+后台,background,bg,X
+后缀,Postfix,pstfix,X
+后评价,Appraised,apprsed,X
+否,No,no,X
+否决,Rejected,Rejected,X
+含,With,with,X
+启用,Open,opn,X
+呆坏账,bad debts,bddt,X
+呆滞,Idle Loans,idln,X
+呆账,Bad Loans,bln,X
+员,er,er,X
+员工,Staff,staff,X
+周,Week,Week,X
+周均,WeekAvg,WeekAvg,X
+周期,Cycle,cyc,X
+品种,Variety,vrty,X
+商业,Business,bsn,X
+商品,Commodity,cmdt,X
+商户,Merchant,mcht,X
+商铺,Store,str,X
+回归,Original,orig,X
+回报,Return,retrn,X
+回拨,Return,ret,X
+回收,Reclaim,rclm,X
+回笼,Withdrawal From Circulation,wdfrcirl,X
+回购,Buyback,bbck,X
+回退,Back,back,X
+因子,Gene,gene,X
+因素,Factor,ftor,X
+团队,Team,team,X
+困难,Difficultly,difcut,X
+固定,Fixed,fix,X
+国债,National Debt,ndebt,X
+国内,Domestic,dmst,X
+国内生产总值,Gross Domestic Product,gdp,X
+国家,Country,cty,X
+国有,State,state,X
+国有四行,State Commercial Bank,stcmcbnk,X
+国标,Gb,GB,X
+国民,National,nat,X
+国民保险号,,,X
+国税,National Tax,ntax,X
+国籍,nationality,nationality,X
+国际,International,itnl,X
+国际贸易,International Trade,intertrd,X
+图,Graph,graph,X
+图片,picture,pic,X
+图纸,Blueprint,blupt,X
+圈存,Point Pay,point_pay,X
+土地,Earth,eth,X
+在,At,at,X
+在建,Building,bldg,X
+地,Position,postn,X
+地上,Overground,ovgnd,X
+地下,Underground,undgnd,X
+地位,Status,status,X
+地区,Region,rgon,X
+地址,Address,adr,X
+地市 行号,Level 2 Bank Number,levl2_bankno,X
+地方,Local,lcl,X
+地点,Place,plc,X
+地理位置,Location,lctn,X
+地税,Local Tax,ltax,X
+场所,Place,plc,X
+坐落,Sit,sit,X
+型号,Model,mdl,X
+垫卡,Underlay Card,underlaycrd,X
+垫款,Advance In Cash,aic,X
+城市,City,city,X
+基准,Base,base,X
+基差,basic,bsc,X
+基数,Base Number,bsnbr,X
+基期,Term,term,X
+基本,Basic,bsc,X
+基础,Basic,bsc,X
+填报,Fill,fill,X
+填表,Fill,fill,X
+填表员,Filler,filler,X
+墙壁,Wall,wall,X
+增值税,Value-Added Tax,VAT,X
+增加,Add,add,X
+增拨,add,add,X
+增量,Incrt,incrt,X
+增长,grow,grw,X
+壁垒,Bulwark,bulwk,X
+声明,Claims,claims,X
+处理,Deal With,dlwth,X
+处罚,Punishment,punishment,X
+处置,Treatment,trt,X
+备份,Backup,bckup,X
+备注,Remark,rmk,X
+备用,Standby,stby,X
+复核,Check,chk,X
+复议,Reconsider,reconsider,X
+外,Outside,outsd,X
+外币,Foreign Currency,fccy,X
+外方,Foreign,fgn,X
+外汇,Foregin Exchange,forexc,X
+外贸,Foreign Trade,frgntrd,X
+外部,Exterior,ext,X
+大,Big,big,X
+大专,Junior College,juniorclg,X
+大事记,Big Event,bigevt,X
+大小,Size,size,X
+大类,Class,class,X
+大行,Bigger Bank,bgbnk,X
+天,day,day,X
+天数,Day Number,nbr,X
+央行,Central Bank,cnrlbnk,X
+失效,Overtime,ovtm,X
+失败,Fail,fail,X
+头尾,Bottom To End,bte,X
+头衔,Title,title,X
+奖罚,Rewarding Punishment,reward_punish,X
+套,Set,set,X
+套取,Illegal Exchange,illegal_exg,X
+姓名,Name,nm,X
+委托,Entrust,entrst,X
+委托书,Trust Instrument,trism,X
+婚姻,Marital,mrt,X
+媒体,Media,media,X
+子,Child,chd,X
+子目,Sub Code,subcode,X
+子类,Sub Type,subty,X
+字符串,String,str,X
+字符型,Char,char,X
+存入,Deposit Into,dpsint,X
+存单,Deposit Receipt,deprcpt,X
+存在,Exist,exist,X
+存折,Deposit Book,dpstbk,X
+存放处,Depositary,dpt,X
+存期,Deposit Time,dpstm,X
+存款,Deposit,dep,X
+存款比,DepositDiv,depDiv,X
+存货,Merchandise,mrchd,X
+存贷比,DepositLoanDiv,depLoanDiv,X
+季,Season,ssn,X
+季度,Quarter,qtr,X
+学历,Educational Level,edulvl,X
+学校,School,school,X
+安全,Safe,safe,X
+安装,Setting,set,X
+完成,Finish,finish,X
+完整,inte,inte,X
+宏观,Macro,macro,X
+定义,Definition,defn,X
+定价,Make Price,make_prc,X
+定性,Qualitative,qual,X
+定期,Fixed,fix,X
+定期储蓄,Fix Deposit,fd,X
+定额,Rating,rating,X
+实付利息,Paid Out Interest,pdoutint,X
+实体,Entity,enty,X
+实例,Instance,inst,X
+实力,Strength,strength,X
+实收,Paid Up,pdp,X
+实收利息,Paid Up Interest,pdpint,X
+实收资本,Paid In Capital,pdncptl,X
+实物,Entity,entity,X
+实现,Realize,real,X
+实缴,Actual Pay,act_pay,X
+实际,Real,real,X
+审批,Approve,aprv,X
+审查,Check,chk,X
+审核,Audit,audit,X
+审表,Check,chk,X
+审表员,Auditor,auditor,X
+审计,Audit,audit,X
+审议,Consideration,consd,X
+客户,Customer,cst,X
+客户经理绩效考核系统,Cmpe,CMPE,X
+家庭,Family,fml,X
+容积,Cubage,cubg,X
+宽限,Grace,grace,X
+密码,Password,psw,X
+对,According To,ato,X
+对公,Crop,crop,X
+对公授信,Loan,loan,X
+对应,Corresponding,cpd,X
+对手,Adversary,adver,X
+对方,Other Side,othr,X
+对照,Contrast,cont,X
+对私,idv,idv,X
+对象,Object,obj,X
+对账单,Check Sheet,chksht,X
+导入,Import,imp,X
+封闭,Close,close,X
+封面,cover,cvr,X
+封顶,Upper Limit,uprlmt,X
+小,Small,small,X
+少数,Few,few,X
+尚,Still,s,X
+尽责,Pious,pious,X
+层,Floor,fl,X
+层次,Level,levl,X
+居住,Residence,rsdnc,X
+居民,Resident,rsdnt,X
+屏蔽,ignore,ignr,X
+展期,Rollover,rlvr,X
+属性,Attribute,attr,X
+工作,Work,wrk,X
+工作日,Work Day,wkd,X
+工作流,Workflow,wkfl,X
+工信部,wcd,wcd,X
+工具,tool,tl,X
+工程,Project,prj,X
+差,Margin,marg,X
+差幅,Difference,dif,X
+差异,Difference,diff,X
+差额,Margin,marg,X
+已,Already,alrd,X
+已上,Already Used,alus,X
+已付,Payed,pyd,X
+已填写,Wrote,wrote,X
+已批准,Approved,apred,X
+已收,Received,rcvd,X
+已用,Used,usd,X
+已经,Already,ard,X
+已调整,Adjusted,adj,X
+已转期,Transferred,trans,X
+已还,Payed,pyd,X
+币别,Currency,ccy,X
+市,City,city,X
+市价,Market Price,mktprc,X
+市场,Market,mkt,X
+市盈率,Profit/Earning,pftern,X
+常用,In Common Use,com_use,X
+平仓,clo_pos,clo_pos,X
+平台,Platform,plaf,X
+平均,Average,avg,X
+平移,move,move,X
+年,Annual,anul,X
+年份,Year,yr,X
+年内,This Year,thy,X
+年审,YA,ya,X
+年度,Annual,anul,X
+年检,Annual Audit,anul_audit,X
+年限,Years,yrs,X
+年龄,Age,age,X
+并入,Merge,merg,X
+广东,GuangDong,GuangDong,X
+广州,Guang Zhou,gz,X
+序号,Sequence Number,seqno,X
+应,Should,shd,X
+应付,Payable,pybl,X
+应收,Receivable,rcvb,X
+应用,Application,app,X
+应计,Accrued,acr,X
+应还,Payable,payable,X
+底盘,Underpan,upan,X
+底限,Bottom Line,bot_ln,X
+度,Level,lvl,X
+延迟,Defer,defer,X
+建档,File,file,X
+建立,Set Up,setup,X
+建筑,Construction,cnstr,X
+建议,Suggestion,sugst,X
+开业,Business Open,bsnopn,X
+开关,Switch,sw,X
+开出,Issue,iss,X
+开列,Open,opn,X
+开卡,Open,open,X
+开发,Develop,dvp,X
+开发商,Developer,dvpr,X
+开始,Begin,beg,X
+开户,Open Account,opnac,X
+开票,Postal Order,PO,X
+开立,Issue,iss,X
+开证,Issue,iss,X
+异常,Abnormity,abnrm,X
+引用,Quote,qt,X
+强度,Intensity,intsy,X
+归属,Subjection,sbjctn,X
+归档,Archive,archv,X
+归还,Return,ret,X
+当前,Current,crn,X
+当地,Local,lcl,X
+当天,Current Day,curday,X
+当年,Year,yr,X
+当日,Today,today,X
+当期,Current Period,crnpd,X
+录入,Input,input,X
+录入员,Inputor,ipr,X
+形式,Form,form,X
+形象,Image,image,X
+影响,Affect,affect,X
+往来,Contact,contact,X
+往来账户,Account Current,accrn,X
+待处理,to deal,to_deal,X
+待摊,To be apportioned,to_be_appor,X
+律师行,Law Office,lofc,X
+循环,Cycle,cycle,X
+微信,wx,wx,X
+微型,tiny,tn,X
+必填项,Required,requried,X
+必要,Necessary,necsry,X
+性别,Gender,gnd,X
+性质,Attribute,attr,X
+总,Overall,ovrl,X
+总分,Score,scr,X
+总户,Overall Account,ovrac,X
+总行,Bank Of China,boc,X
+总计,Sumtotal,smtl,X
+总账码,General Ledger Code,glcode,X
+总部,Hq,HQ,X
+总量,Gross,gros,X
+总额,Amount,amt,X
+恢复,reset,rst,X
+息,Interest,int,X
+情况,Circs,crcs,X
+意愿,Will,will,X
+意见,Opinion,opn,X
+成为,Be,be,X
+成交,Bargain,bargn,X
+成分,Type,tp,X
+成功,Success,suc,X
+成员,Member,mbr,X
+成因,Reason,rsn,X
+成数,Percentage,pct,X
+成新率,Old Degree,olddgr,X
+成本,Cost,cost,X
+我行,Boc,boc,X
+或,Or,or,X
+或有,Contingent,ctgt,X
+截止,End,end,X
+户,Door,door,X
+户名,Account Holder,achdr,X
+户型,Type Of Flat,typft,X
+户籍,Household Register,hhrgst,X
+房,House,hs,X
+房产,House Property,hspty,X
+房地产,Real Estate,rlest,X
+房屋,House,hs,X
+所在,Local,lcl,X
+所在地,Local Place,lplc,X
+所属,Subjection,sbjctn,X
+所得税,Income Tax,ictax,X
+所有,All,all,X
+所有权,Ownership,owshp,X
+所有者,owner,onr,X
+所有者权益,Owners Equity,oeqty,X
+手工,Handcraft,hdcft,X
+手机,Mobile Phone,mobphn,X
+手续,Procedure,prcdr,X
+手续费,Commission,cmsn,X
+打包,Packaging,pack,X
+打卡,Print Card,print_crd,X
+打印,Print,prt,X
+托管,Escrow,escrow,X
+扣划,Deduct,dct,X
+扣款,Payment,pmt,X
+扣账,Deduct Account,ddcac,X
+扣除,Deduct,deduct,X
+执笔,Write,wrt,X
+执行,Execution,exec,X
+批准,Approve,apre,X
+批准人,Approver,aper,X
+批出,Confirm,cfrm,X
+批发,Wholesale,whsal,X
+批处理,Batch,bat,X
+批复,Approval,approval,X
+批文,Remarks,rmk,X
+批示,Postil,pstl,X
+批量,Batch,batch,X
+承,Link,lnk,X
+承兑,Accept,accept,X
+承诺,Promise,prm,X
+承诺函,Promise Letter,prltr,X
+承销,Undertake Sell,undtk_sell,X
+技术,Technology,tech,X
+投保人,Policy Holder,plchdr,X
+投向,Direction,drc,X
+投放,Invest,invest,X
+投资,Investment,ivsm,X
+投资商,Investor,ivstr,X
+折,Converted,cnvr,X
+折扣,Discount,dscnt,X
+折算,Converted,cnvr,X
+折让,Allowances,allow,X
+抚养人口,Fend Number,fdnbr,X
+报价,Quote,quote,X
+报告,Report,rprt,X
+报告书,Proces Verbal,provb,X
+报废,Useless,usls,X
+报表,Report,rep,X
+报送,Report,rep,X
+抵押,Mortgage,mtg,X
+抵押权,Mortgage Rights,mtgrt,X
+抵押物,Mortgage,mtg,X
+抵用,instead,instd,X
+抵质押,Mortgage Pledge,mtg_plg,X
+抵质押品,Mortgage Pledge,mtg_plg,X
+抵质押物,Mortgage Pledge,mtg_plg,X
+押品,Pawn,pwn,X
+押汇,Negotiating,negtt,X
+担保,Guarantee,grnt,X
+担保品,Collateral,col,X
+拆借,Loan at call,lac,X
+拍卖,Auction,auct,X
+拒付,Repudiation,repdt,X
+拒绝,Refuse,rfs,X
+拖欠,Arrears,ars,X
+拟,Planned,plnd,X
+拥有者,Ownner,Ownner,X
+拨备,fncpre,fncpre,X
+拼音,Spell,spell,X
+持卡,,,X
+持卡人,cardholder,cdr,X
+持有,Have,h,X
+持股,Shares,shares,X
+挂失,Report Loss,rploss,X
+指引,Guidelines,gudln,X
+指数,Index,indx,X
+指标,Indicator,ind,X
+按揭,Mortgage,mtg,X
+按日,By Day,byday,X
+按时,on schedule,onsdl,X
+挪用,Appropriation,approp,X
+损失,Loss,los,X
+损益,Profit And Loss,pftls,X
+换卡,Change Card,chgcrd,X
+授信,Loan,loan,X
+授信评审,Loan Accreditation,lnad,X
+授后,Loaned,loaned,X
+授权,Authorization,aut,X
+排列,Range,rge,X
+排名,Rank,rnk,X
+排查,pc,pc,X
+接受,Receive,rcv,X
+接收,Receive,rcv,X
+控制,Control,cntl,X
+控制方,Control,ctrlr,X
+控股,Share Hold,shahld,X
+推荐,Recommendation,,
+措施,Measure,msr,X
+描述,Description,desc,X
+提交,Submit,submit,X
+提供,Afford,affd,X
+提前,In Advance,adv,X
+提单,Bill Of Lading,ladbl,X
+提款,Drawing,drw,X
+提现,Draw Money,draw,X
+提示,Prompt,prpt,X
+提货,Pick Up The Goods,pugds,X
+提醒,remind,rmnd,X
+搜索,Search,sch,X
+摊分,Repartition,reptt,X
+摊销,Amortizement,amtz,X
+摘要,Brief,brf,X
+撤消,Cancel,cancel,X
+撤销,Cancellation,cncl,X
+操作,Operation,oprn,X
+操作符,OperationSymbol,oprnsmbl,X
+支付,Pay,pay,X
+支出,Outlay,otl,X
+支取,Draw,drw,X
+支持,Support,suport,X
+支票,Check,check,X
+支行,Subbranch Bank,sbnk,X
+收付,crdb,crdb,X
+收入,Income,inc,X
+收单,Bill,bill,X
+收取,Receive,rcv,X
+收回,Collected,coll,X
+收息,Take Back Interest,tbint,X
+收支,revenue and expenses,rev_exp,X
+收文,Receive,rcv,X
+收款,receivables,rcvab,X
+收款人,Payee,pye,X
+收益,Profit,profit,X
+收益率要求,ProfitRatioReq,prr,X
+收费,Charge,chrg,X
+改制,Reformation,rfmt,X
+放款,Loan,ln,X
+政府,Government,gov,X
+政策,Policy,pl,X
+效期,Period Of Validity,pov,X
+效益,Profit,profit,X
+敏感,sensitivity,sens,X
+教育,education,edctn,X
+敞口,Gap,gap,X
+数,Number,nbr,X
+数值,Value,val,X
+数字,Number,nbr,X
+数据,Data,data,X
+数量,Number,nbr,X
+整体,Whole,whl,X
+整合后,Integrated,intgd,X
+整改,Rectification,rctf,X
+文书,Writ,writ,X
+文件,File,file,X
+文件主档,Main File,mfile,X
+文件档,File,file,X
+文化,Culture,culture,X
+文化程度,Education,edu,X
+文号,Document No,docno,X
+文字,Word,wrd,X
+文本,Text,txt,X
+文档,Document,doc,X
+新,New,new,X
+新增,New Gain,ngn,X
+新开户,New Account,new,X
+新旧,Old_New,old_new,X
+新账,New Account,newac,X
+方向,Direction,direct,X
+方式,Fashion,fshn,X
+方案,Plan,pln,X
+方法,Method,mth,X
+施工,Construction,const,X
+无形,Immateriality,immtly,X
+无欠,NotOverDue,ntovd,X
+无法,Unable,unbl,X
+无线寻呼,Bp,bp,X
+日,Day,day,X
+日均,DayAvg,DayAvg,X
+日常,Daily,daily,X
+日志,Log,log,X
+日期,Date,dt,X
+旧,Old,old,X
+旬,A Period Of Ten Days,tenday,X
+时效,Valid Period,vp,X
+时段,Period,prid,X
+时点,Break Point,brkpt,X
+时间,Time,tm,X
+时间戳,Timestamp,tmsmp,X
+时限,Time,tm,X
+明细,Detail,dtl,X
+明细副档,Detail File,dfile,X
+明细文件,Detail File,dfile,X
+明细档,Detail File,dfile,X
+映射,map,map,X
+是,Yes,yes,X
+是否,If,if,X
+显示,Display,dsp,X
+显著,Prominence,prmn,X
+晚于,laterTO,ltrt,X
+暴露,Exposure,exposr,X
+更新,Update,udt,X
+更正,Rectify,rctf,X
+最低,Lowest,lwst,X
+最后,Last,last,X
+最大,Bigest,bgst,X
+最小,Smallest,smlst,X
+最差,Baddest,baddest,X
+最新,Newest,nst,X
+最短,Shortest,sht,X
+最终,Final,fnl,X
+最近,Recently,recly,X
+最近一次,Lastest,ltst,X
+最长,Longest,lgst,X
+最高,Highest,hiest,X
+月,Month,mon,X
+月份,Month,mon,X
+月供,Pay By Month,pbmon,X
+有效,Valid,vld,X
+有权,Right,rght,X
+有限,Ltd.,ltd,X
+服务,Service,serv,X
+期,Period,prd,X
+期初,termBegin,tb,X
+期号,Term NO,term_no,X
+期数,Stage,stg,X
+期末,termEnd,te,X
+期间,period,perd,X
+期限,Time Limit,tmlmt,X
+未,Not,not,X
+未付,Unpaid,unpaid,X
+未决,In Dispute,indispt,X
+未到期,Undue,undue,X
+未完成,Incomplete,incom,X
+未收,Non-Received,norcvd,X
+未来,Future,fut,X
+末,End,end,X
+末次,Last Time,lsttm,X
+本,This,this,X
+本币,Local Currency,lccy,X
+本期,CurrentTerm,crnt_term,X
+本段,Current Term,curtrm,X
+本科,Bachelor,bachelor,X
+本行,Boc,boc,X
+本金,Principal Sum,pnpsum,X
+本金项下,Principal,pnp,X
+机器,Machine,mash,X
+机构,Organization,org,X
+权利,Right,rght,X
+权属,Possession,poss,X
+权益,Equity,eqty,X
+权重,Weight,wght,X
+权限,Priority,prty,X
+杠杆,lever,lvr,X
+条件,Condition,cd,X
+条款,Item,item,X
+条线,line,line,X
+来,Come,come,X
+来源,Origin,orig,X
+架构,Architecture,archt,X
+柜员,Teller,tlr,X
+查询,Query,query,X
+标准,Standard,std,X
+标志,Flag,flag,X
+标注,mark,mrk,X
+标签,Label,lbl,X
+标识,Flag,f,X
+标题,Caption,capt,X
+树,Tree,Tree,X
+校验,Check,chk,X
+校验位,Parity Bit,parity_bit,X
+样式,Style,style,X
+样本,Sample,samp,X
+核准,Check,chk,X
+核呆,cancel,cncl,X
+核定,Ratify,raf,X
+核实,Verification,verf,X
+核对,Checkup,chkup,X
+核心,Core,core,X
+核批,Approval,approval,X
+核查,Verification,verf,X
+核算,Business Accounting,bsnacg,X
+核算码,Apcode,apcode,X
+核销,Charge Off,chrgof,X
+根,Root,Root,X
+格式,Format,fmt,X
+档案,Archives,arch,X
+档次,Level,levl,X
+检查,Check,chk,X
+检测,Examine,exam,X
+检验,Check,chk,X
+楼盘,Building,bldg,X
+概率,Probability,probbty,X
+概要,Schema,schm,X
+模块,model,mdl,X
+模型,Model,model,X
+模式,Mode,mode,X
+模板,Template,tpl,X
+模组,Model,model,X
+欠息,Overdue Interest,ovdint,X
+欠款,Debt,debt,X
+次,Hypo,hypo,X
+次数,Time,tm,X
+次级,Inferiority,infe,X
+款,Funds,fnds,X
+止付,Stop Pay,stoppay,X
+止日,Stopping Day,stpday,X
+止算日,Stopping Day,stpday,X
+正值,Positive Value,pos_val,X
+正常,Normal,nrml,X
+正式,Formal,formr,X
+步,Step,step,X
+残值,Salvage Value,salgval,X
+段,Period,prid,X
+段落,Paragraph,prg,X
+母公司,ParentFirm,prntfrm,X
+每,Per,per,X
+比,Contrast,contrt,X
+比例,Proportion,prop,X
+比率,Ratio,rto,X
+比较,Compare,cmpr,X
+毕业,Graduation,grdt,X
+民族,National,nat,X
+水平,Level,lvl,X
+求偿,Claims,claims,X
+汇买价,Buying Rate,brate,X
+汇兑,Exchange,exg,X
+汇卖价,Selling Rate,srate,X
+汇总,Summary,sum,X
+汇率,Exchange Rate,exgrate,X
+汇票,Postal Order,PO,X
+汽车,Car,car,X
+法,Method,mth,X
+法人,Juridical Person,jpsn,X
+法务,law,law,X
+法定,Legal,legal,X
+法律,Law,law,X
+法院,Court,court,X
+注入,Afflux,afflux,X
+注册,Registered,rgst,X
+注销,Cancel,cancel,X
+活动,Active,active,X
+活期,Current,curr,X
+活期一本通储蓄,Rbsy,rbsy,X
+活期储蓄,Saving,sv,X
+流入,fi,fi,X
+流出,fo,fo,X
+流动,Current,crn,X
+流动性,Liquidity,lqd,X
+流动比,LiquidityRatio,lqdt_rto,X
+流动比率,Liquidity Ratio,lqdrto,X
+流向,flow,flow,X
+流水,Sequence,sqc,X
+流程,Process,proc,X
+流通,Currency,ccy,X
+流量,Flow,flow,X
+测算,Calculated,cal,X
+浮动,Floating,fltg,X
+海外,Overseas,ovseas,X
+消费,Consume,cosum,X
+涉及,Involved,invl,X
+清分,Liquidate And Classify,liqcls,X
+清单,List,list,X
+清理,Clear,clr,X
+清算,Clearing,clrg,X
+渊源,Origin,orig,X
+渠道,Channel,chan,X
+源,Source,src,X
+溢价,Premium,prem,X
+满分,Full Mark,flmk,X
+演变,Change,chg,X
+点,Point,point,X
+热点,hot,hot,X
+父类,Parent,prnt,X
+版本,Version,ver,X
+牌告,Intimation,imtn,X
+牌照,License,lcn,X
+物品,Goods,gds,X
+物资,Material,matral,X
+牵头,Leader,leader,X
+特别,Special,spec,X
+特定,Special,spec,X
+特征,Character,chr,X
+特性,Characteristic,char,X
+特殊,Special,spec,X
+特长,Specialality,spclty,X
+状况,Status,st,X
+状态,Status,st,X
+独立,Dependent,dpnd,X
+率,Ratio,rto,X
+环境,Environment,envrn,X
+现,Now,now,X
+现场,Scene,Scene,X
+现时,Now,now,X
+现有,Now,now,X
+现汇,CashBill,cb,X
+现汇买入价,Buying_Rate,buying_rate,X
+现职,The Present Post,psntpst,X
+现金,Cash,cash,X
+现金流,CashFlow,cshflw,X
+现钞,Cash,cash,X
+理由,Reason,rsn,X
+理财,Financing ,fncg,X
+生产,Produce,prdu,X
+生效,Take Effect,tkef,X
+生活费,Cost Of Living,cstlv,X
+用户,User,user,X
+用款,Using,usg,X
+用途,Use,use,X
+申报,Declare,declar,X
+申请,Application,apl,X
+电传,Telex,telx,X
+电子邮件,Email,email,X
+电脑,computer,cmpt,X
+电话,Telephone,tel,X
+留存,Subsistence,subst,X
+登记,Check In,chkin,X
+百分比,Percentage,pct,X
+盈余公积,FS,FS,X
+盈利,Payoff,payoff,X
+监控,Monitor,mntr,X
+监理,Supervise,suprvs,X
+监督,Supervise,supvis,X
+监管,Supervise,supvis,X
+盘存,Taking Inventory,tkinv,X
+目录,Directory,dir,X
+目标,Target,trgt,X
+直接,Straight,strt,X
+相关,Relational,rltnl,X
+相对,Relative,rltv,X
+省区,Province,prov,X
+省行,Province Bank,pbnk,X
+短信,sms,sms,X
+短期,Short Term,st,X
+码,Code,code,X
+码表,Reference,ref,X
+破产,Bankrupt,bndr,X
+硕士,Master,mas,X
+确认,Affirm,afrm,X
+确认人,Confirm By,confm_by,X
+社会,Society,sct,X
+神通,skill,sk,X
+票据,Bill,bill,X
+福费廷,ForFaiting,forfaiting,X
+种类,Category,cgy,X
+科室,Section Office,sect_off,X
+科目,Ledger,lg,X
+租用,Rental,rent,X
+租赁,Rent,rent,X
+租赁人,Rent By,rent_by,X
+租金,Rent,rent,X
+积分,Score,score,X
+积压,Overstock,ovstok,X
+积数,Sum Number,sumnbr,X
+移动电话,Mobile,mbl,X
+程度,Degree,dgr,X
+税,Tax,tax,X
+税务,Tax,tax,X
+税后,Post Tax,post_tax,X
+税收,Revenue,rev,X
+税金,Tax,tax,X
+稳定,Stable,stable,X
+稽核,Audit,audit,X
+空,Null,nul,X
+突发,Sudden,sudn,X
+竞争,Competition,competn,X
+章程,Rule,rule,X
+笔数,Number,nbr,X
+符号,Symbol,symb,X
+符合,Accord,accd,X
+第一,First,fst,X
+第一次,First,fst,X
+第三,third,thd,X
+第三方,Third Party,thdpty,X
+第二,Secondary,scdy,X
+第四,Fourth,fth,X
+等值,Equal Value,eq_val,X
+等待,Wait For,wf,X
+等级,Grade,grd,X
+策略,Strategy,strty,X
+筹资,Financing,fncing,X
+签发,Endorse,edrs,X
+签字,Signature,sgntr,X
+签收,Checked,chked,X
+签章,Signature,sgntr,X
+签约,Underwrite,uwrt,X
+签订,Sign,sgn,X
+简介,Brief Introduction,brfintr,X
+简历,Resume,resm,X
+简名,Short Name,snm,X
+简称,Short Name,snm,X
+简表,Brief List,brief_list,X
+算法,Arithmetic,arthm,X
+管理,Management,mag,X
+管理者,Manager,mager,X
+管辖,Super,sup,X
+类,Type,tp,X
+类别,Category,cgy,X
+类型,Type,tp,X
+系数,Coefficient,coef,X
+系统,System,stm,X
+索引,Index,indx,X
+索赔,Counterclaim,cntclm,X
+累积,Accumulated,acm,X
+累计,Accumulated,acm,X
+累进,Progression,prg,X
+纠纷,Dispute,dispute,X
+红牌,Red_Card,Red_Card,X
+红线,Red Line,redln,X
+约会,date,dt,X
+约束,Restriction,restrt,X
+级,Level,levl,X
+级别,Rank,rank,X
+纯,Pure,pure,X
+纳入,Bring into,brin,X
+纳税,Ratepaying,rpay,X
+纸文本,Paper,paper,X
+线,Line,ln,X
+组,Group,grp,X
+组别,Group,grp,X
+组建,build,bld,X
+组织,Organization,org,X
+细,Mini,mini,X
+细分,Subsection,subn,X
+细化,Detail,detail,X
+细类,Detail Type,dettype,X
+终审,Final Judgment,fnljdg,X
+终止,End,end,X
+终端,terminal,term,X
+经办,Handle,hdl,X
+经办人,Loaner,lnr,X
+经历,Experience,exp,X
+经手,Handle,hdl,X
+经济,Economic,ecn,X
+经济资本计量,Economical Capital Measurement,ecm,X
+经理,Manager,mgr,X
+经营,Operation,oprn,X
+经营性,Operation,optn,X
+经营范围,Operation Area,oprnarea,X
+经过,Af,af,X
+结息,Strike Interest,strkint,X
+结息日,Clear Rate Date,crtd,X
+结授比,SettlementLoanDiv,setlLoanDiv,X
+结束,End,end,X
+结构,Structure,strt,X
+结果,Result,rslt,X
+结清,Balance Off,baloff,X
+结算,Settlement,setl,X
+结算量,SettlementNumber,setlNum,X
+结算量比,SettlementNumberDiv,setlNumDiv,X
+结论,Conclusion,con,X
+结账,Balance Account,bal_ac,X
+绝对,Absolute,abs,X
+统一,Uniform,ufrm,X
+统计,Statistics,stat,X
+绩效,Performance,perfm,X
+续卡,Continue Card,cotinucrd,X
+续存,Continued Deposit,contiu_dep,X
+维,Dimension,dim,X
+维护,Maintenance,maint,X
+综合,Integration,intgr,X
+绿色,green,grn,X
+缓急,Priorities,prty,X
+缓释,Sustained Release,stn_rls,X
+编号,Number,no,X
+编码,Code,code,X
+编辑,Edit,edit,X
+缴存,Pay,pay,X
+缴纳,Pay,pay,X
+缴费证,Pay Paper,pyr,X
+缺乏,Lack,lack,X
+缺口,Gap,gap,X
+缺漏,Missing,missing,X
+网点,Network Point,ntwrkpt,X
+罚息,Punitive Interest,pntvint,X
+罚款,Amercement,amerce,X
+美元,Usa,usa,X
+群组,group,grp,X
+老,Old,old,X
+老账,Old Account,oldac,X
+考核,Evaluation,evl,X
+耗时,Time Consuming,tmcon,X
+职业,Occupation,occu,X
+职务,Title,tle,X
+职称,Title Of Technical Post,totp,X
+职能,Function,func,X
+联动,Linkage,lkg,X
+联机,Online,onln,X
+联系,Contact,ctc,X
+联系人,Contact,contact,X
+联网,Net Connected,net_connected,X
+联行,Interbank,intbnk,X
+股东,Stockholder,stkhd,X
+股份,Share,shr,X
+股利,Dividend,div,X
+股本,Capital Stock,cptstk,X
+股权,Stockholders Equity,seqty,X
+股票,Stock,stck,X
+背景,Background,bkgrd,X
+能力,Ability,ablt,X
+能手,Master Hand,msthnd,X
+脱期,Over Period,ovprd,X
+自动,Automated,auto,X
+自有,Self Own,self,X
+自然人,Nature Person,ntrpsn,X
+自给,selfSufficiency,slfSffc,X
+至,To,to,X
+良好,Good,good,X
+节点,Node,node,X
+英文,English,eng,X
+范围,Area,area,X
+药品,medicine,mdcn,X
+获得,Gain,gn,X
+营业,Business,bsn,X
+营业外,Outsides Business,out_bsn,X
+营业执照,Business License,bsnlcn,X
+营利性,forProfit,fpft,X
+落实,Fulfil,flfl,X
+董事会,Directorate,dirtrt,X
+薄弱,Weakness,weak,X
+融资,Finance,finance,X
+融通,Circulation,circl,X
+行,Bank,bnk,X
+行业,Industry,idy,X
+行为,Activity,act,X
+行号,Bank Number,bnkno,X
+行政,Administration,adm,X
+街道,Street,street,X
+补充,Complementary,cmplt,X
+补助,subsidy,sbd,X
+补卡,Repair Card,reparcrd,X
+补录,Post,post,X
+补登,Make Up,makeup,X
+补缴,Pay,pay,X
+补计,Complementary Calculate,cmpltclc,X
+补贴,Allowance,allw,X
+表,List,list,X
+表内,Intable,intab,X
+表决,Vote,vote,X
+表号,Table Identify,tabid,X
+表外,Extable,extab,X
+表现,Behave,bhv,X
+被保证人,Warrantee,wrrt,X
+被催收,Dunned,dunned,X
+裁剪,Cut Out,cut,X
+装饰,Decorate,decrt,X
+西,West,west,X
+要求,Request,req,X
+要点,Points,points,X
+要素,Factor,fctr,X
+覆盖,Coverage,covg,X
+规划,Programming,progm,X
+规则,Rule,rule,X
+规格,Standards,stds,X
+规模,Size,sz,X
+角色,Role,role,X
+解,Un,un,X
+解决,Solve,solve,X
+解冻,Release,release,X
+解除,Release,rls,X
+触发,Tvrigger,trg,X
+警戒,Alerm,alerm,X
+计价,calculate,clt,X
+计分,Scoring,scrg,X
+计划,Plan,pln,X
+计息,Interest Calculated,intcal,X
+计提,Calculate Draw,cal_draw,X
+计算,Calculate,clc,X
+计量,Measure,msr,X
+认定,Cognizance,cog,X
+议题,Topic,topic,X
+记名,Sign,sgn,X
+记录,Record,rcrd,X
+记账,Account,ac,X
+记账货币,Money Of Account,mon_of_ac,X
+许可证,Licence,lcn,X
+设备,Equipment,eqpt,X
+设施,Establishment,estbl,X
+设置,setting,set,X
+访谈,Visit,vst,X
+证,Certificate,cert,X
+证书,Certificate,ctf,X
+证件,Certificate,ctf,X
+证明,Prove,prove,X
+评价,Appraise,apr,X
+评估,Evaluation,evl,X
+评分,Scoring,scr,X
+评委,Jury,jury,X
+评定,Assess,ass,X
+评审,Accreditation,acdt,X
+评级,Grade,grd,X
+识别,discern,dcrn,X
+诉讼,Lawsuit,lwst,X
+语句,Sentence,sntnc,X
+语言,Language,lang,X
+说明,Explain,expl,X
+调出,Translate,tasl,X
+调整,Adjust,adj,X
+调查,Survey,svy,X
+调级,Adjust,adj,X
+调节,Adjustment,adj,X
+负债,Liability,lby,X
+负债率,Debt Ratio,dbrto,X
+负值,Negative Value,neg_val,X
+负责人,Principal,prncpl,X
+负面,ngt,ngt,X
+贡献,Contributing,ctbg,X
+财产,Assets,asts,X
+财务,Financial,fnc,X
+财政,Finance,fnc,X
+责任,Responsibility,resp,X
+责任人,Responder,resper,X
+账,Account,ac,X
+账务,Account,ac,X
+账单,Bill,bill,X
+账号,Account Number,acno,X
+账户,Account,ac,X
+账面,Account,ac,X
+账龄,AccountAge,acage,X
+货币,Currency,ccy,X
+货物,Goods,gds,X
+质押,Pledge,plg,X
+质押品,PledgeRes,plgres,X
+质押物,Pledge,plg,X
+质权,Right Of Pledge,plgrt,X
+质量,Quality,qly,X
+购买,Buy,buy,X
+购房,Buying House,bhse,X
+购置,Purchase,pch,X
+贴现,Discount,dscnt,X
+贷方,Credit,cr,X
+贷款,Loan,loan,X
+贷款证,Loan License,loanlcn,X
+贷记卡,Credit Card,crcrd,X
+贸易,Trade,trade,X
+费,Fee,fee,X
+费用,Fee,fee,X
+资不抵债,Insolvency,insolvency,X
+资产,Asset,ast,X
+资控,,,X
+资料,Material,mtr,X
+资本,Capital,cptl,X
+资格,Qualification,qlfictn,X
+资源,Resource,rsrc,X
+资质,Intelligence,,X
+资金,Fund,fnd,X
+起始日,Starting Day,strday,X
+起息,Value,val,X
+起息日,Value Date,valdt,X
+起日,Begin Day,bgd,X
+起算日,Starting Day,strday,X
+超限,Over Limit,ovlimt,X
+趋势,Trend,trend,X
+跌价,Cheapen,cheapen,X
+跨,Over,ov,X
+跨区,overarea,ovra,X
+路径,Path,path,X
+跳转,Change To,chgto,X
+身份证号,Identify Number,idno,X
+车架,Carcase,ccs,X
+车辆,Cars,cars,X
+车龄,Car Age,cage,X
+转,Change To,chgto,X
+转口,Transit,trst,X
+转存,Transfer Deposit,tfr_dep,X
+转换,transfer,tfr,X
+转移,move,mv,X
+转账,Transfer Accounts,tfrac,X
+较差,Worse,worse,X
+辅币,Fractional Currency,frtccy,X
+输入,Input,inpt,X
+辖内,Dominant,dmt,X
+达到标准,Up To Scratch,upscratch,X
+过万,More Than Ten Thousand,thsnd,X
+过期,Over Time,over,X
+过程,Process,prcs,X
+运营,Operation,oprn,X
+运输,Transport,tnsp,X
+近三年,lststThrY,lststThrY,X
+近期,Up To Date,uptodt,X
+返回,Return,retn,X
+返还,Return,retn,X
+还,Pay,pay,X
+还息,Repayment Of Interest,rpint,X
+还本,Repayment Of Principal,rppnp,X
+还款,Repayment,repymt,X
+进出口,Import And Export,impexp,X
+进口,Import,imp,X
+进口商,Importer,impter,X
+进行,Process,proc,X
+进项,Receipts item,receipts_itm,X
+违约,Breach Of Faith,brech_fath,X
+违约金,Penalty,pny,X
+违规,Deregulation,dereg,X
+违诺,break promise,bkpms,X
+追加,Superaddition,supadd,X
+追索,claim,clm,X
+追索权,Recourse,rcs,X
+退出,Quit,quit,X
+退回,Return,rtn,X
+退档,Rejected,Rejected,X
+适用,apply,apply,X
+适用性,Applicability,appty,X
+逃废债,Messy Debt,msdb,X
+选取,Selected,seld,X
+选择,Choose,chs,X
+透支,Overdraft,ovrdf,X
+逐笔,Per Stroke,perstrk,X
+递增率,Incremental Ratio,inrto,X
+递延,Defered,defer,X
+通信,Mail,mail,X
+通信地址,Address,adr,X
+通存通兑,Connected Bank Operation,cbo,X
+通知,Inform,ifm,X
+通知书,Notice,ntc,X
+通融,Accommodation,accmd,X
+通讯,Message,msg,X
+通过,Pass,pass,X
+速动,sd,sd,X
+逻辑,Logic,logic,X
+逾期,Overdue,ovd,X
+道路,Road,road,X
+遵守,comply,cply,X
+邮政,Post,post,X
+邮政编码,Postcode,pstcd,X
+邮程,Post Day,post_day,X
+邮编,Zipcode,zip,X
+部分,Part,part,X
+部门,Department,dept,X
+配偶,Spouse,sps,X
+释放,Release,release,X
+重大,Important,impt,X
+重整,Reforming,refm,X
+重点,Important,impt,X
+重组,Reorganization,reorg,X
+重置,Reset,reset,X
+重要,Important,impt,X
+重设,Reset,reset,X
+重量,Weight,wght,X
+量,Quantity,quty,X
+量化,Numberical,nbrc,X
+金卡,Gold Card,gcrd,X
+金融,Finance,fnc,X
+金额,Sum,sum,X
+鉴别,Distinguish,distgsh,X
+钞买价,Banknote Buying Rate,bnbrate,X
+钞卖价,Banknote Selling Rate,bnsrate,X
+钞汇,Currency Bill,curbill,X
+银团,Bank,bank,X
+银监,CBRC,cbrc,X
+银行,Bank,bnk,X
+销售,Sale,sale,X
+销户,Cancel,cancel,X
+销项,Quash item,quash_itm,X
+错误,Error,err,X
+镇区,Township,twp,X
+长,Long,long,X
+长城,Greate Wall,gw,X
+门类,category,ctgy,X
+问题,Problem,prob,X
+间隔,Interval,intl,X
+阈值,threshold,thld,X
+阶段,Phase,phase,X
+附件,Accessory,acesy,X
+附加,Additional,add,X
+附加费,Associate Charge,achg,X
+附属,sub,sub,X
+附注,Appendix,appdx,X
+附言,ps,PS,X
+限制,Limit,lim,X
+限期,Deadline,deadln,X
+限额,Quota,qta,X
+隐瞒,Disguise,disguis,X
+隶属,Subjection,sbjctn,X
+集合,collection,col,X
+集团,Group,grp,X
+零售,Retail,rtl,X
+零售定期,Rbfix,rbfix,X
+零售定期一本通,Rbfx,rbfx,X
+零售普通,Rbsav,rbsav,X
+零售活期,Rbsv,rbsv,X
+零售活期一本通,Rbsy,rbsy,X
+非,Not,not,X
+面值,Par Value,pval,X
+面积,Area,area,X
+页面,page,pg,X
+项,Item,itm,X
+项目,Project,prj,X
+顺序,Sequence,seq,X
+预先,Beforehand,bfhd,X
+预售,Presell,psl,X
+预期,Expected,expect,X
+预测,Predict,prdct,X
+预算,Buget,bdgt,X
+预警,Early Warning,earlywrn,X
+预计,Expected,expect,X
+领卡,Get Card,getcrd,X
+领域,domain,dmn,X
+领导,Leader,leader,X
+频率,Frequency,freqy,X
+额,Amount,amt,X
+额度,Limit,lmt,X
+风险,Risk,rsk,X
+首期,First Period,fstpd,X
+首次,First,frst,X
+首笔,First,frst,X
+首页,firstPage,fp,X
+高,high,high,X
+高于,Higher,higher,X
+高级,High_Level,hghlvl,X
+黄牌,Yellow_Card,Yellow_Card,X
+黄金,Gold,gold,X
+黑名单,Black List,black_list,X

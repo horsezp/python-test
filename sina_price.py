@@ -25,6 +25,7 @@ print "price" + value[2]
 value = getQuote("hk06139")
 print "price" + value[2]
 
+#get the second price
 
 #db=cx_Oracle.connect('system','oracle','192.168.2.42:1521/dave')
 
